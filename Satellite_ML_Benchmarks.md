@@ -21,7 +21,7 @@ This document provides a list of common datasets and models used for benchmarkin
    - Aerial scenes including buildings, planes, and tracks for object detection.
    - GSD: 0.15 meters.
    - Data Volume: 0.9 GB.
-   - [Dataset Link](http://uavod.org/)
+   - [Dataset Link](https://datasetninja.com/uav-small-object-detection)
 
 4. **Ship Detection Dataset**
    - A dataset used for detecting ships in the Atlantic Ocean.
@@ -30,7 +30,7 @@ This document provides a list of common datasets and models used for benchmarkin
 
 5. **Wildfire Segmentation Dataset**
    - Dataset for wildfire segmentation tasks.
-   - [Dataset Link](https://www.kaggle.com/gbonesso/wildfire-segmentation-dataset)
+   - [Dataset Link](https://github.com/MatteoM95/CEMS-Wildfire-Dataset)
 
 ## Models
 
