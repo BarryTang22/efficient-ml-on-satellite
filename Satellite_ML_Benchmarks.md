@@ -1,5 +1,5 @@
 
-# Benchmark Datasets and Models for Efficient Machine Learning on Satellites
+# Benchmark Datasets and Models
 
 This document provides a list of common datasets and models used for benchmarking efficient machine learning tasks on satellite platforms. The datasets are commonly used in tasks like object detection, segmentation, and inference offloading in Low Earth Orbit (LEO) satellites. 
 
